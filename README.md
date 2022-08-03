@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋 My name is Anastasia
+
+I'm a self-taught Frontend Developer :woman_technologist: living in New Zealand.
+
+- Looking for a job as a Junior Frontend Developer.
+- Currently learning at Codecademy in the Full-Stack Engineer Career Path.
+- Also working on my [portfolio](https://annastrin.github.io/)
+
 
 <!--
 **Annastrin/Annastrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
