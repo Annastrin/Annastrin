@@ -2,11 +2,7 @@
 
 ### About me
 
-I'm a Frontend Developer :woman_technologist: living in New Zealand.
-
-- Looking for a job as a Junior Frontend Developer.
-- Currently learning at Codecademy in the Full-Stack Engineer Career Path.
-- Also working on my [portfolio](https://annastrin.github.io/)
+I'm a Software Developer :woman_technologist: living in New Zealand.
 
 ### Languages and Technologies
 
